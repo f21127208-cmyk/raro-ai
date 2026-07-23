@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "raro-ai",
-    "slug": "snack-7e5f8f0c-11b8-47cc-9c15-9ba28bd91f6d",
+    "name": "Raro AI",
+    "slug": "raro-ai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Aplicação Raro AI para pesquisas avançadas em tópicos raros, análises e geração de texto formatado."
+    "description": "Aplicação Raro AI para pesquisas avançadas em tópicos raros, análises e geração de texto formatado.",
+    "extra": {
+      "eas": {
+        "projectId": "906f0730-5dc2-4c72-93b0-1484c723ed78"
+      }
+    }
   }
 }
