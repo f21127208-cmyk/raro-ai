@@ -2,7 +2,7 @@
   "expo": {
     "name": "Raro AI",
     "owner": "felipe_14",
-    "slug": "raro-al",
+    "slug": "raro-ai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,6 +17,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.felipe_14.raroai",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
