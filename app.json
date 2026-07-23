@@ -1,4 +1,4 @@
-{{
+{
   "expo": {
     "name": "Raro AI",
     "slug": "raro-ai",
@@ -24,6 +24,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "cli": {
+      "appVersionSource": "remote"
     },
     "extra": {
       "eas": {
