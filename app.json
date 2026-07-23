@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "raro-ai",
-    "owner": "Felipe_14",
-    "slug": "raro-ai",
+    "name": "Raro AI",
+    "owner": "felipe_14",
+    "slug": "Raro-AI",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -34,4 +34,3 @@
     }
   }
 }
-
