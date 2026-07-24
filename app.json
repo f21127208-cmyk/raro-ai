@@ -27,9 +27,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "cli": {
-      "appVersionSource": "remote"
-    },
     "extra": {
       "eas": {
         "projectId": "906f0730-5dc2-4c72-93b0-1484c723ed78"
